@@ -13,4 +13,4 @@ try:
     print(f'\"{a}\" в степени \"{b}\" равно {DegreeNumber(a,b)}')
     
 except:
-    print('')
+    print('Ошибка ввода')
